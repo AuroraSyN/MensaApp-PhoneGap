@@ -1,0 +1,16 @@
+body{
+	background-image: url("../img/background_LSF.jpg");
+	background-attachment: fixed;
+	background-size: cover;
+	color: black;
+	font-weight: 700;
+}
+
+h1{
+	padding: 20px;
+}
+
+.container{
+	margin-top: 20px;
+	background: rgba(255, 255, 255, .75);
+}

@@ -1,0 +1,26 @@
+
+body{
+	background-color: white;
+    background-attachment:fixed;
+}
+
+.vertical-menu{
+}
+
+.vertical-menu a{
+	background-color: grey;
+	color: black;
+	display: block;
+	padding: 20px;
+	text-decoration: none;
+	border: 1px solid white;
+}
+
+.vertical-menu a:hover {
+	background-color: #ccc;
+}
+
+.vertical-menu a.active {
+	background-color: white;
+	color: white;
+}

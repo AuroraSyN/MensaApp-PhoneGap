@@ -1,0 +1,28 @@
+#app-bar{
+	width:100%;
+	background-color: #3F51B5;
+	color: white;
+	
+	/* TODO pixel automatisch an die Gerätegröße anpassen (mit entprechender Einheit oder was auch immer */
+	height: 56px;
+	
+	/* For centering the title and image inside the app-bar */
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+#app-bar span{
+	display:inline;
+	font-size: 20px;
+}
+
+#app-bar img{
+	height: 48px;
+	width: 48px;
+	margin-top: auto;
+	margin-bottom: auto;
+	position: absolute;
+	left: 8px;
+	fill: #FFFFFF;
+}

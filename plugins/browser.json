@@ -1,0 +1,73 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-battery-status": {
+            "PACKAGE_NAME": "com.hsworms.hochschulapp"
+        },
+        "cordova-plugin-camera": {
+            "PACKAGE_NAME": "com.hsworms.hochschulapp"
+        },
+        "cordova-plugin-console": {
+            "PACKAGE_NAME": "com.hsworms.hochschulapp"
+        },
+        "cordova-plugin-contacts": {
+            "PACKAGE_NAME": "com.hsworms.hochschulapp"
+        },
+        "cordova-plugin-device": {
+            "PACKAGE_NAME": "com.hsworms.hochschulapp"
+        },
+        "cordova-plugin-device-motion": {
+            "PACKAGE_NAME": "com.hsworms.hochschulapp"
+        },
+        "cordova-plugin-device-orientation": {
+            "PACKAGE_NAME": "com.hsworms.hochschulapp"
+        },
+        "cordova-plugin-dialogs": {
+            "PACKAGE_NAME": "com.hsworms.hochschulapp"
+        },
+        "cordova-plugin-file-transfer": {
+            "PACKAGE_NAME": "com.hsworms.hochschulapp"
+        },
+        "cordova-plugin-geolocation": {
+            "PACKAGE_NAME": "com.hsworms.hochschulapp"
+        },
+        "cordova-plugin-globalization": {
+            "PACKAGE_NAME": "com.hsworms.hochschulapp"
+        },
+        "cordova-plugin-inappbrowser": {
+            "PACKAGE_NAME": "com.hsworms.hochschulapp"
+        },
+        "cordova-plugin-media": {
+            "PACKAGE_NAME": "com.hsworms.hochschulapp"
+        },
+        "cordova-plugin-media-capture": {
+            "PACKAGE_NAME": "com.hsworms.hochschulapp"
+        },
+        "cordova-plugin-network-information": {
+            "PACKAGE_NAME": "com.hsworms.hochschulapp"
+        },
+        "cordova-plugin-splashscreen": {
+            "PACKAGE_NAME": "com.hsworms.hochschulapp"
+        },
+        "cordova-plugin-statusbar": {
+            "PACKAGE_NAME": "com.hsworms.hochschulapp"
+        },
+        "cordova-plugin-vibration": {
+            "PACKAGE_NAME": "com.hsworms.hochschulapp"
+        },
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "com.hsworms.hochschulapp"
+        }
+    },
+    "dependent_plugins": {
+        "cordova-plugin-file": {
+            "PACKAGE_NAME": "com.hsworms.hochschulapp"
+        }
+    }
+}
